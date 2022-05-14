@@ -33,6 +33,43 @@
     </item>
     
     <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sat, 14 May 2022 18:55:24 +0300</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;h2 id=&#34;markdown-is-a-text-markup-language-created-by-writer-and-blogger-john-gruber-it-is-designed-to-create-beautifully-designed-texts-in-ordinary-txt-format-files-you-dont-need-bulky-processors-like-word-or-pages-to-create-documents-with-bold-or-italics-citations-links-and-even-tables-it-is-enough-to-remember-the-simple-rules-of-markdown-and-you-can-write-even-in-a-notebook-although-specialized-markdown-editors-are-of-course-much-more-convenient&#34;&gt;Markdown is a text markup language created by writer and blogger John Gruber. It is designed to create beautifully designed texts in ordinary TXT format files. You don&amp;rsquo;t need bulky processors like Word or Pages to create documents with bold or italics, citations, links, and even tables. It is enough to remember the simple rules of Markdown, and you can write even in a &amp;ldquo;Notebook&amp;rdquo;. Although specialized Markdown editors are, of course, much more convenient.&lt;/h2&gt;
+&lt;h1 id=&#34;where-can-i-use-markdown&#34;&gt;Where can I use Markdown&lt;/h1&gt;
+&lt;h2 id=&#34;notes-the-markdown-editor-with-a-file-panel-for-example-atom-or-ia-writer-is-quite-a-worthy-alternative-to-evernote-and-onenote-we-have-already-written-why-markdown-is-good-for-organizing-your-database-of-notes&#34;&gt;Notes: The Markdown editor with a file panel (for example, Atom or iA Writer) is quite a worthy alternative to Evernote and OneNote. We have already written why Markdown is good for organizing your database of notes.&lt;/h2&gt;
+&lt;h2 id=&#34;drafts-for-the-blog-this-markup-language-is-compatible-with-a-bunch-of-online-editors-and-blog-platforms-you-can-write-a-draft-for-your-blog-in-markdown-and-then-publish-it-in-seconds--all-links-titles-and-formatting-will-look-as-you-intended-this-is-not-for-you-to-copy-from-word&#34;&gt;Drafts for the blog: This markup language is compatible with a bunch of online editors and blog platforms. You can write a draft for your blog in Markdown, and then publish it in seconds — all links, titles and formatting will look as you intended. This is not for you to copy from Word.&lt;/h2&gt;
+&lt;h2 id=&#34;task-lists-it-is-very-easy-to-create-shopping-lists-to-do-lists-and-work-assignments-in-markdown-editors-some-geeks-use-a-plain-text-file-todotxt-as-an-alternative-to-the-fashionable-wunderlist-and-todoist-how-to-do-this-you-can-find-out-on-the-website-todotxt-&#34;&gt;Task lists: It is very easy to create shopping lists, to-do lists, and work assignments in Markdown editors. Some geeks use a plain text file todo.txt as an alternative to the fashionable Wunderlist and Todoist. How to do this, you can find out on the website Todo.txt .&lt;/h2&gt;
+&lt;h2 id=&#34;messengers-even-some-messengers-support-markdown-for-example-in-telegram-you-can-use-it-to-apply-bold-or-italic-highlighting&#34;&gt;Messengers: Even some messengers support Markdown. For example, in Telegram, you can use it to apply bold or italic highlighting.&lt;/h2&gt;
+&lt;h1 id=&#34;advantages-of-markdown&#34;&gt;Advantages of Markdown&lt;/h1&gt;
+&lt;h2 id=&#34;versatility-documents-written-using-markdown-syntax-are-plain-text-txt-files-they-can-be-opened-on-any-platform-and-in-any-editor-in-this-way-they-differ-favorably-from-files-created-in-word-processors-have-you-tried-opening-a-document-from-apple-pages-in-word&#34;&gt;Versatility: Documents written using Markdown syntax are plain text TXT files. They can be opened on any platform and in any editor. In this way they differ favorably from files created in word processors. Have you tried opening a document from Apple Pages in Word?&lt;/h2&gt;
+&lt;h2 id=&#34;simplicity-markdown-is-so-simple-that-even-those-who-have-not-heard-about-all-your-latex-and-html-before-will-be-able-to-master-it-in-10-minutes-grids-for-subheadings-asterisks-for-highlighting-dashes-for-lists-it-couldnt-be-simpler&#34;&gt;Simplicity: Markdown is so simple that even those who have not heard about all your Latex and HTML before will be able to master it in 10 minutes. Grids for subheadings, asterisks for highlighting, dashes for lists. It couldn&amp;rsquo;t be simpler.&lt;/h2&gt;
+&lt;h2 id=&#34;a-large-selection-of-editing-tools-for-working-with-markdown-documents-is-very-very-much-there-are-online-mobile-and-desktop-tools-there-is-a-monstrous-atom-beautiful-and-minimalistic-ghostwriter-and-ia-writer-vim-for-geeks-and-ulysses-for-professional-writers-i-dont-want-to-choose&#34;&gt;A large selection: of Editing tools for working with Markdown documents is very, very much. There are online, mobile, and desktop tools. There is a monstrous Atom, beautiful and minimalistic ghostwriter and iA Writer, Vim for geeks and Ulysses for professional writers. I don&amp;rsquo;t want to choose.&lt;/h2&gt;
+&lt;h2 id=&#34;convertibility-markdown-documents-can-be-easily-exported-to-any-formats-pdf-doc-odt-at-the-same-time-their-formatting-remains-unchanged&#34;&gt;Convertibility: Markdown documents can be easily exported to any formats: PDF, DOC, ODT. At the same time, their formatting remains unchanged.&lt;/h2&gt;
+&lt;h1 id=&#34;disadvantages-of-markdown&#34;&gt;Disadvantages of Markdown&lt;/h1&gt;
+&lt;h2 id=&#34;limited-formatting-since-markdown-documents-are-just-text-files-you-cant-use-beautiful-fonts-in-them-after-all-it-is-more-of-a-tool-for-writing-drafts-than-for-full-fledged-layout&#34;&gt;Limited formatting: Since Markdown documents are just text files, you can&amp;rsquo;t use beautiful fonts in them. After all, it is more of a tool for writing drafts than for full-fledged layout.&lt;/h2&gt;
+&lt;h2 id=&#34;strict-rules-in-markdown-the-text-is-formatted-using-service-characters-one-extra-character--or--and-the-formatting-will-change-so-when-typing-texts-in-markdown-you-will-have-to-be-careful&#34;&gt;Strict rules: In Markdown, the text is formatted using service characters. One extra character * or #, and the formatting will change. So when typing texts in Markdown, you will have to be careful.&lt;/h2&gt;
+&lt;h1 id=&#34;applications-for-markdown&#34;&gt;Applications for Markdown&lt;/h1&gt;
+&lt;h2 id=&#34;you-can-easily-choose-your-favorite-text-editor-from-our-selection-atom-is-considered-one-of-the-best-for-markdown--it-is-good-for-its-incredible-flexibility-and-versatility-it-works-on-windows-macos-and-linux-and-has-a-huge-number-of-themes-and-extensions-it-is-very-easy-to-assemble-a-dream-editor-from-it-macos-users-should-pay-attention-to-the-beautiful-and-convenient-editors-ia-writer-write-and-byword&#34;&gt;You can easily choose your favorite text editor from our selection. Atom is considered one of the best for Markdown — it is good for its incredible flexibility and versatility. It works on Windows, macOS and Linux and has a huge number of themes and extensions. It is very easy to assemble a dream editor from it. MacOS users should pay attention to the beautiful and convenient editors iA Writer, Write and Byword.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My last week</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Sat, 14 May 2022 18:53:47 +0300</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
+&lt;h2 id=&#34;this-week-i-did-all-the-things-i-planned-to-do-i-did-all-the-lab-work-solved-the-tests-did-my-homework-in-english-in-addition-i-did-not-forget-about-the-rest-my-friends-and-i-went-to-the-trampoline-park&#34;&gt;This week I did all the things I planned to do. I did all the lab work, solved the tests, did my homework in English. In addition, I did not forget about the rest. My friends and I went to the trampoline park.&lt;/h2&gt;
+&lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
+&lt;h2 id=&#34;i-think-this-week-has-been-productive-i-completed-all-the-tasks-and-had-time-to-rest-relax-and-sleep-a-lot-i-hope-next-week-will-be-no-less-productive&#34;&gt;I think this week has been productive. I completed all the tasks and had time to rest, relax and sleep a lot. I hope next week will be no less productive.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Continuous Integration and Continuous Deployment</title>
       <link>https://example.com/post/tema2/</link>
       <pubDate>Sat, 07 May 2022 07:29:17 +0300</pubDate>
