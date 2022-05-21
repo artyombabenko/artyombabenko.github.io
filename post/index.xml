@@ -5,12 +5,50 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 18:55:24 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 07:26:55 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Creating presentations</title>
+      <link>https://example.com/post/creating_presentations/</link>
+      <pubDate>Sat, 21 May 2022 07:26:55 +0300</pubDate>
+      <guid>https://example.com/post/creating_presentations/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;h2 id=&#34;all-of-us-have-at-least-once-got-to-a-performance-with-an-impossibly-boring-presentation-the-slides-were-overloaded-with-information-the-speech-was-monotonous-there-was-snuffling-in-the-hall-the-content-of-such-speeches-disappears-from-memory-a-minute-after-the-start&#34;&gt;All of us have at least once got to a performance with an impossibly boring presentation. The slides were overloaded with information, the speech was monotonous, there was snuffling in the hall. The content of such speeches disappears from memory a minute after the start.&lt;/h2&gt;
+&lt;h2 id=&#34;but-not-all-presentations-are-like-that-some-do-not-get-out-of-my-head-for-weeks-and-the-words-from-them-inspire-me-to-act-a-good-presentation-is-understandable-even-to-a-child-beautifully-designed-and-combined-with-a-strong-idea-can-change-the-world&#34;&gt;But not all presentations are like that. Some do not get out of my head for weeks, and the words from them inspire me to act. A good presentation is understandable even to a child, beautifully designed, and combined with a strong idea can change the world.&lt;/h2&gt;
+&lt;h2 id=&#34;how-to-make-a-beautiful-and-interesting-presentation-easier-than-it-looks-you-dont-need-to-be-a-designer-or-steve-jobs-to-do-this-its-enough-to-follow-the-simple-rules-and-tricks-from-this-article-with-them-you-will-be-able-to-inspire-convey-ideas-and-convince-people-through-presentations-and-if-time-is-tight-use-readymade-canva-templates---much-of-what-we-are-talking-about-below-is-already-there&#34;&gt;How to make a beautiful and interesting presentation? Easier than it looks. You don&amp;rsquo;t need to be a designer or Steve Jobs to do this, it&amp;rsquo;s enough to follow the simple rules and tricks from this article. With them, you will be able to inspire, convey ideas and convince people through presentations. And if time is tight, use ready—made Canva templates - much of what we are talking about below is already there.&lt;/h2&gt;
+&lt;h1 id=&#34;how-to-prepare-for-the-presentation&#34;&gt;How to prepare for the presentation?&lt;/h1&gt;
+&lt;h2 id=&#34;before-you-sit-down-at-the-editor-ask-yourself-a-few-questions-who-is-your-audience-what-is-the-main-idea-of-the-presentation-how-will-you-prove-it-what-should-people-understand-and-do-after-your-words-the-better-you-prepare-before-the-speech-the-more-accurate-your-message-will-be-even-if-the-presentation-is-watched-online-studying-the-recipients-and-working-on-the-structure-will-not-be-in-vain&#34;&gt;Before you sit down at the editor, ask yourself a few questions: Who is your audience? What is the main idea of the presentation? How will you prove it? What should people understand and do after your words? The better you prepare before the speech, the more accurate your message will be. Even if the presentation is watched online, studying the recipients and working on the structure will not be in vain.&lt;/h2&gt;
+&lt;h1 id=&#34;the-main-idea&#34;&gt;The main idea&lt;/h1&gt;
+&lt;h2 id=&#34;good-presentations-always-have-a-main-idea-that-runs-through-the-whole-performance-like-a-red-thread-it-can-be-a-call-a-push-to-a-decision-or-a-plan-without-a-clear-idea-presentations-get-messy-and-confusing-and-it-can-be-difficult-for-listeners-to-understand-what-the-author-wanted-to-say&#34;&gt;Good presentations always have a main idea that runs through the whole performance like a red thread. It can be a call, a push to a decision, or a plan. Without a clear idea, presentations get messy and confusing, and it can be difficult for listeners to understand what the author wanted to say.&lt;/h2&gt;
+&lt;h2 id=&#34;the-main-idea-should-be-short-simple-and-memorable-as-a-motto-or-slogan&#34;&gt;The main idea should be short, simple and memorable. As a motto or slogan.&lt;/h2&gt;
+&lt;h2 id=&#34;the-dream-is-the-most-important-part-of-any-presentation-after-you-find-and-isolate-the-central-idea-you-will-understand-how-to-create-a-presentation-around-it-check-each-slide-with-a-question-why-is-it-important-for-the-idea-so-everything-that-does-not-help-to-reveal-the-idea-will-simply-remain-behind-the-scenes&#34;&gt;The dream is the most important part of any presentation After you find and isolate the central idea, you will understand how to create a presentation around it. Check each slide with a question: &amp;ldquo;Why is it important for the idea?&amp;rdquo; So everything that does not help to reveal the idea will simply remain behind the scenes.&lt;/h2&gt;
+&lt;h1 id=&#34;structure&#34;&gt;Structure&lt;/h1&gt;
+&lt;h2 id=&#34;sometimes-even-strong-ideas-get-lost-in-presentations-with-a-chaotic-structure-to-prevent-this-from-happening-sort-everything-out-in-advance-here-are-a-few-ways-by-which-you-can-interestingly-convey-the-main-idea-start-with-a-little-provocation-bang-point-to-a-problem-gap-provide-evidence-and-propose-a-solution-main-thoughts-tell-a-story-and-call-for-action-explain-the-complex-according-to-the-principle-of-explain-like-im-5-give-brief-conclusions-and-motivation-to-work-with-them-wrap-up-it-is-not-necessary-to-take-all-six-methods-into-the-presentation-any-three-will-be-enough-for-a-good-presentation&#34;&gt;Sometimes even strong ideas get lost in presentations with a chaotic structure. To prevent this from happening, sort everything out in advance. Here are a few ways by which you can interestingly convey the main idea: Start with a little provocation (bang); Point to a problem (gap); Provide evidence and propose a solution (main thoughts); Tell a story and call for action; Explain the complex according to the principle of &amp;ldquo;Explain like I&amp;rsquo;m 5&amp;rdquo;; Give brief conclusions and motivation to work with them (wrap up). It is not necessary to take all six methods into the presentation, any three will be enough for a good presentation.&lt;/h2&gt;
+&lt;h1 id=&#34;how-to-make-a-cool-presentation&#34;&gt;How to make a cool presentation?&lt;/h1&gt;
+&lt;h2 id=&#34;now-that-the-audience-is-in-complete-order-with-ideas-and-content-you-can-finally-take-up-the-slides-but-first-a-few-hints&#34;&gt;Now that the audience is in complete order with ideas and content, you can finally take up the slides! But first, a few hints.&lt;/h2&gt;
+&lt;h2 id=&#34;dont-forget-the-rule-one-slide--one-thought-choose-sans-serif-fonts-write-large-use-bright-talking-photos-choose-cool-templates&#34;&gt;Don&amp;rsquo;t forget the rule &amp;ldquo;one slide — one thought&amp;rdquo;; Choose sans-serif fonts; Write large; Use bright talking photos; Choose cool templates.&lt;/h2&gt;
+&lt;h1 id=&#34;how-to-tell-a-presentation&#34;&gt;How to tell a presentation?&lt;/h1&gt;
+&lt;h2 id=&#34;if-you-have-recognized-the-audience-formulated-the-message-and-told-it-by-simple-means-then-your-presentation-is-already-cooler-than-anything-that-can-be-found-on-the-internet-you-can-try-to-go-further-and-figure-out-how-to-make-the-presentation-even-better-due-to-the-steep-pitch&#34;&gt;If you have recognized the audience, formulated the message and told it by simple means, then your presentation is already cooler than anything that can be found on the Internet. You can try to go further and figure out how to make the presentation even better due to the steep pitch.&lt;/h2&gt;
+&lt;h2 id=&#34;rehearse-your-speech-speak-slowly-try-to-keep-within-10-minutes-use-slides-as-a-background-learn-from-the-best&#34;&gt;Rehearse your speech; Speak slowly; Try to keep within 10 minutes; Use slides as a background; Learn from the best.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://example.com/post/week3/</link>
+      <pubDate>Sat, 21 May 2022 07:13:08 +0300</pubDate>
+      <guid>https://example.com/post/week3/</guid>
+      <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
+&lt;h2 id=&#34;this-week-turned-out-to-be-diverse-i-did-a-lot-of-things-for-my-studies-but-i-also-did-not-forget-about-recreation-and-entertainment-my-friend-had-a-birthday-and-we-went-on-a-horror-quest-we-got-unforgettable-emotions-then-we-ate-pizza-and-walked-in-gorky-park-until-nightfall&#34;&gt;This week turned out to be diverse. I did a lot of things for my studies, but I also did not forget about recreation and entertainment. My friend had a birthday and we went on a horror quest. We got unforgettable emotions. Then we ate pizza and walked in Gorky Park until nightfall.&lt;/h2&gt;
+&lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
+&lt;h2 id=&#34;i-think-this-week-has-been-productive-i-was-able-to-find-a-balance-between-studying-and-relaxing-so-the-week-turned-out-great&#34;&gt;I think this week has been productive. I was able to find a balance between studying and relaxing, so the week turned out great.&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Markdown</title>

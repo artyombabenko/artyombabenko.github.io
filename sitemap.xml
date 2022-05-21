@@ -10,9 +10,13 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/markdown/</loc><lastmod>2022-05-14T18:55:24+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/post/creating_presentations/</loc><lastmod>2022-05-21T07:26:55+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-14T18:55:24+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/post/</loc><lastmod>2022-05-21T07:26:55+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/week3/</loc><lastmod>2022-05-21T07:13:08+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/markdown/</loc><lastmod>2022-05-14T18:55:24+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/last_week/</loc><lastmod>2022-05-14T18:53:47+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
