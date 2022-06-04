@@ -5,12 +5,41 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 08:53:25 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 14:35:38 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Upstart</title>
+      <link>https://example.com/post/upstart/</link>
+      <pubDate>Sat, 04 Jun 2022 14:35:38 +0300</pubDate>
+      <guid>https://example.com/post/upstart/</guid>
+      <description>&lt;h1 id=&#34;upstart-is-an-os-initialization-system-that-controls-the-launch-of-daemons-during-system-boot-their-stopping-and-their-management-while-the-system-is-running-it-is-an-event-based-replacement-for-the-init-initialization-system-in-unix-and-linux-systems-it-was-originally-developed-for-the-ubuntu-distribution-but-later-became-used-in-other-linux-distributions-such-as-fedora-later-replaced-by-systemd-as-a-replacement-for-unix-system-v-init-since-2014-upstart-has-been-in-maintenance-mode-only-with-no-new-features-being-developed-it-is-now-recognized-as-obsolete-and-a-switch-to-systemd-is-planned-for-many-distributions&#34;&gt;Upstart is an OS initialization system that controls the launch of daemons during system boot, their stopping, and their management while the system is running. It is an event-based replacement for the init initialization system in UNIX and Linux systems. It was originally developed for the Ubuntu distribution, but later became used in other Linux distributions, such as Fedora (later replaced by systemd), as a replacement for UNIX System V init. Since 2014, Upstart has been in maintenance mode only, with no new features being developed. It is now recognized as obsolete and a switch to systemd is planned for many distributions.&lt;/h1&gt;
+&lt;h1 id=&#34;upstart-is-a-hybrid-initialization-system-it-uses-both-sysv-startup-scripts-and-systemd-service-files&#34;&gt;UpStart is a hybrid initialization system, it uses both SysV startup scripts and Systemd service files.&lt;/h1&gt;
+&lt;h1 id=&#34;most-of-its-features-work-due-to-integration-with-systemd-initialization-system-recently-fewer-and-fewer-sysv-init-scripts-are-being-used-and-more-and-more-systemd-unit-files-are-being-used-sooner-or-later-systemd-will-displace-and-completely-replace-upstart-in-ubuntu&#34;&gt;Most of its features work due to integration with Systemd initialization system. Recently, fewer and fewer SysV init scripts are being used and more and more Systemd unit files are being used. Sooner or later, Systemd will displace and completely replace Upstart in Ubuntu.&lt;/h1&gt;
+&lt;h1 id=&#34;tasks-can-be-started-and-stopped-with-the-start-and-stop-programs-located-in-the-sbin-directory-each-of-these-programs-must-be-parameterized-with-a-list-of-tasks-to-be-processed-both-programs-provide-the-results-of-their-work-to-the-standard-output-stream&#34;&gt;Tasks can be started and stopped with the start and stop programs located in the /sbin directory. Each of these programs must be parameterized with a list of tasks to be processed. Both programs provide the results of their work to the standard output stream.&lt;/h1&gt;
+&lt;h1 id=&#34;the-program-status-as-the-name-suggests-lets-you-know-the-status-of-the-task-it-displays-first-the-name-of-the-task-then-the-last-operation-performed-on-the-task-startstop-the-current-state-and-the-process-identifier-if-any-you-can-get-a-list-of-all-tasks-and-their-statuses-at-the-moment-using-initctl-list-command-with-the-initctl-emit-command-you-have-the-possibility-to-generate-any-event-this-is-very-useful-when-writing-your-own-jobs&#34;&gt;The program status, as the name suggests, lets you know the status of the task. It displays first the name of the task, then the last operation performed on the task (start/stop), the current state and the process identifier, if any. You can get a list of all tasks and their statuses at the moment using initctl list command. With the initctl emit command you have the possibility to generate any event. This is very useful when writing your own jobs.&lt;/h1&gt;
+&lt;h1 id=&#34;system-processes-are-stored-in-etcinit-directory-and-user-processes-are-stored-in-init-directory-user-workflows-are-started-in-their-sessions-such-processes-are-not-system-wide-all-processes-regardless-of-their-type-are-always-defined-in-a-configuration-file-conf-where-their-name-should-represent-the-service-or-task-to-be-performed&#34;&gt;System processes are stored in /etc/init/ directory, and user processes are stored in ~/.init/ directory. User workflows are started in their sessions. Such processes are not system-wide. All processes regardless of their type are always defined in a configuration file (.conf), where their name should represent the service or task to be performed.&lt;/h1&gt;
+&lt;h1 id=&#34;a-process-in-the-post-start-state-is-considered-a-running-process-it-remains-running-until-the-pre-stop-state-in-which-it-prepares-to-stop-after-that-the-process-is-stopped-and-goes-to-the-post-stop-state-system-cleanup&#34;&gt;A process in the post-start state is considered a running process. It remains running until the pre-stop state, in which it prepares to stop. After that the process is stopped and goes to the post-stop state (system cleanup).&lt;/h1&gt;
+&lt;h1 id=&#34;upstart-is-an-event-based-provisioning-system-developed-by-canonical-and-designed-to-replace-sysv-it-can-start-system-services-perform-various-tasks-on-them-inspect-them-at-runtime-and-take-actions-in-response-to-system-events&#34;&gt;Upstart is an event-based provisioning system developed by Canonical and designed to replace SysV. It can start system services, perform various tasks on them, inspect them at runtime, and take actions in response to system events.&lt;/h1&gt;
+&lt;h1 id=&#34;most-of-its-features-work-through-integration-with-the-systemd-provisioning-system&#34;&gt;Most of its features work through integration with the Systemd provisioning system.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last_week5</title>
+      <link>https://example.com/post/last_week5/</link>
+      <pubDate>Sat, 04 Jun 2022 14:17:33 +0300</pubDate>
+      <guid>https://example.com/post/last_week5/</guid>
+      <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
+&lt;h2 id=&#34;its-been-a-tough-week-for-me-the-first-year-of-university-is-coming-to-an-end-grades-will-be-given-out-soon-i-need-to-turn-in-my-outstanding-work-i-did-the-report-the-last-lab-work-on-the-subject-as-well-as-the-last-stage-of-the-individual-project-however-i-still-managed-to-have-some-fun-as-my-friends-and-i-went-for-a-walk-in-the-park-we-rode-on-swings-ate-cotton-candy-and-rode-bicycles&#34;&gt;It&amp;rsquo;s been a tough week for me. The first year of university is coming to an end, grades will be given out soon, I need to turn in my outstanding work. I did the report, the last lab work on the subject, as well as the last stage of the individual project. However, I still managed to have some fun, as my friends and I went for a walk in the park. We rode on swings, ate cotton candy, and rode bicycles.&lt;/h2&gt;
+&lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
+&lt;h2 id=&#34;i-think-it-was-a-very-productive-week-i-finished-all-the-lab-work-and-finished-the-project&#34;&gt;I think it was a very productive week, I finished all the lab work and finished the project.&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Scientifiс programming languages</title>
@@ -63,9 +92,9 @@
     
     <item>
       <title>My last week</title>
-      <link>https://example.com/post/mylastweek/</link>
+      <link>https://example.com/post/mylastweek4/</link>
       <pubDate>Sat, 28 May 2022 08:52:25 +0300</pubDate>
-      <guid>https://example.com/post/mylastweek/</guid>
+      <guid>https://example.com/post/mylastweek4/</guid>
       <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
 &lt;h2 id=&#34;this-week-was-not-as-busy-as-the-previous-ones-this-week-we-had-the-last-physical-education-and-english-classes-i-have-done-a-lot-of-laboratory-work-shot-a-lot-of-video-reports-ive-watched-a-lot-of-videos-on-youtube-thats-how-my-week-went&#34;&gt;This week was not as busy as the previous ones. This week we had the last physical education and English classes. I have done a lot of laboratory work, shot a lot of video reports. I&amp;rsquo;ve watched a lot of videos on youtube. That&amp;rsquo;s how my week went.&lt;/h2&gt;
 &lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
@@ -101,9 +130,9 @@
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/week3/</link>
+      <link>https://example.com/post/lastweek3/</link>
       <pubDate>Sat, 21 May 2022 07:13:08 +0300</pubDate>
-      <guid>https://example.com/post/week3/</guid>
+      <guid>https://example.com/post/lastweek3/</guid>
       <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
 &lt;h2 id=&#34;this-week-turned-out-to-be-diverse-i-did-a-lot-of-things-for-my-studies-but-i-also-did-not-forget-about-recreation-and-entertainment-my-friend-had-a-birthday-and-we-went-on-a-horror-quest-we-got-unforgettable-emotions-then-we-ate-pizza-and-walked-in-gorky-park-until-nightfall&#34;&gt;This week turned out to be diverse. I did a lot of things for my studies, but I also did not forget about recreation and entertainment. My friend had a birthday and we went on a horror quest. We got unforgettable emotions. Then we ate pizza and walked in Gorky Park until nightfall.&lt;/h2&gt;
 &lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
@@ -138,9 +167,9 @@
     
     <item>
       <title>My last week</title>
-      <link>https://example.com/post/last_week/</link>
+      <link>https://example.com/post/last_week2/</link>
       <pubDate>Sat, 14 May 2022 18:53:47 +0300</pubDate>
-      <guid>https://example.com/post/last_week/</guid>
+      <guid>https://example.com/post/last_week2/</guid>
       <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
 &lt;h2 id=&#34;this-week-i-did-all-the-things-i-planned-to-do-i-did-all-the-lab-work-solved-the-tests-did-my-homework-in-english-in-addition-i-did-not-forget-about-the-rest-my-friends-and-i-went-to-the-trampoline-park&#34;&gt;This week I did all the things I planned to do. I did all the lab work, solved the tests, did my homework in English. In addition, I did not forget about the rest. My friends and I went to the trampoline park.&lt;/h2&gt;
 &lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
@@ -188,9 +217,9 @@
     
     <item>
       <title>My last week</title>
-      <link>https://example.com/post/my-first-post/</link>
+      <link>https://example.com/post/my-last-week1/</link>
       <pubDate>Sat, 07 May 2022 06:36:37 +0300</pubDate>
-      <guid>https://example.com/post/my-first-post/</guid>
+      <guid>https://example.com/post/my-last-week1/</guid>
       <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
 &lt;h2 id=&#34;for-this-week-i-made-almost-all-things-which-i-planned-i-have-done-all-the-laboratory-work-in-several-subjects-went-to-the-amusement-park-with-my-friends-read-a-new-detective-book-and-watched-an-interesting-film-called-bird-box-of-all-the-planned-things-i-could-not-only-study-english&#34;&gt;For this week i made almost all things which I planned. I have done all the laboratory work in several subjects, went to the amusement park with my friends, read a new detective book and watched an interesting film called &amp;ldquo;Bird box&amp;rdquo;. Of all the planned things, I could not only study English.&lt;/h2&gt;
 &lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
