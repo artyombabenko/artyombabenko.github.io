@@ -4,234 +4,184 @@
   
   
   <url>
-    <loc>https://example.com/ru/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https://artyombabenko.github.io/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://artyombabenko.github.io/ru/"
     /></url>
   <url>
-    <loc>https://example.com/ru/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https://artyombabenko.github.io/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://artyombabenko.github.io/ru/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/ru/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
+      href="https://artyombabenko.github.io/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https://artyombabenko.github.io/ru/event/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/upstart/</loc><lastmod>2022-06-04T14:35:38+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/upstart/</loc><lastmod>2022-06-04T14:35:38+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/upstart/"
+      href="https://artyombabenko.github.io/post/upstart/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/upstart/"
+      href="https://artyombabenko.github.io/ru/post/upstart/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/</loc><lastmod>2022-06-04T14:35:38+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/</loc><lastmod>2022-06-04T14:35:38+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href="https://artyombabenko.github.io/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href="https://artyombabenko.github.io/ru/post/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/last_week5/</loc><lastmod>2022-06-04T14:17:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/last_week5/</loc><lastmod>2022-06-04T14:17:33+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/last_week5/"
+      href="https://artyombabenko.github.io/post/last_week5/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/last_week5/"
+      href="https://artyombabenko.github.io/ru/post/last_week5/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/scientifi%D1%81_programming_languages/</loc><lastmod>2022-05-28T08:53:25+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/scientifi%D1%81_programming_languages/</loc><lastmod>2022-05-28T08:53:25+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/scientifi%D1%81_programming_languages/"
+      href="https://artyombabenko.github.io/post/scientifi%D1%81_programming_languages/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/scientifi%D1%81_programming_languages/"
+      href="https://artyombabenko.github.io/ru/post/scientifi%D1%81_programming_languages/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/mylastweek4/</loc><lastmod>2022-05-28T08:52:25+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/mylastweek4/</loc><lastmod>2022-05-28T08:52:25+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/mylastweek4/"
+      href="https://artyombabenko.github.io/post/mylastweek4/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/mylastweek4/"
+      href="https://artyombabenko.github.io/ru/post/mylastweek4/"
     /></url>
   <url>
-    <loc>https://example.com/ru/tag/deep-learning/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/tag/deep-learning/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/deep-learning/"
+      href="https://artyombabenko.github.io/tag/deep-learning/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/deep-learning/"
+      href="https://artyombabenko.github.io/ru/tag/deep-learning/"
     /></url>
   <url>
-    <loc>https://example.com/ru/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https://artyombabenko.github.io/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https://artyombabenko.github.io/ru/project/"
     /></url>
   <url>
-    <loc>https://example.com/ru/tags/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/tags/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
+      href="https://artyombabenko.github.io/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href="https://artyombabenko.github.io/ru/tags/"
     /></url>
   <url>
-    <loc>https://example.com/ru/project/example/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/project/example/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example/"
+      href="https://artyombabenko.github.io/project/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example/"
+      href="https://artyombabenko.github.io/ru/project/example/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/creating_presentations/</loc><lastmod>2022-05-21T07:26:55+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/creating_presentations/</loc><lastmod>2022-05-21T07:26:55+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/creating_presentations/"
+      href="https://artyombabenko.github.io/post/creating_presentations/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/creating_presentations/"
+      href="https://artyombabenko.github.io/ru/post/creating_presentations/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/lastweek3/</loc><lastmod>2022-05-21T07:13:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/lastweek3/</loc><lastmod>2022-05-21T07:13:08+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/lastweek3/"
+      href="https://artyombabenko.github.io/post/lastweek3/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/lastweek3/"
+      href="https://artyombabenko.github.io/ru/post/lastweek3/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/markdown/</loc><lastmod>2022-05-14T18:55:24+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/markdown/</loc><lastmod>2022-05-14T18:55:24+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/markdown/"
+      href="https://artyombabenko.github.io/post/markdown/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/markdown/"
+      href="https://artyombabenko.github.io/ru/post/markdown/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/last_week2/</loc><lastmod>2022-05-14T18:53:47+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/last_week2/</loc><lastmod>2022-05-14T18:53:47+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/last_week2/"
+      href="https://artyombabenko.github.io/post/last_week2/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/last_week2/"
+      href="https://artyombabenko.github.io/ru/post/last_week2/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/tema2/</loc><lastmod>2022-05-07T07:29:17+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/tema2/</loc><lastmod>2022-05-07T07:29:17+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/tema2/"
+      href="https://artyombabenko.github.io/post/tema2/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/tema2/"
+      href="https://artyombabenko.github.io/ru/post/tema2/"
     /></url>
   <url>
-    <loc>https://example.com/ru/post/my-last-week1/</loc><lastmod>2022-05-07T06:36:37+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/post/my-last-week1/</loc><lastmod>2022-05-07T06:36:37+03:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/my-last-week1/"
+      href="https://artyombabenko.github.io/post/my-last-week1/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/my-last-week1/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/ru/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/tag/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/tag/academic/"
-    /></url>
-  <url>
-    <loc>https://example.com/ru/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/categories/"
-    /></url>
-  <url>
-    <loc>https://example.com/ru/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/category/demo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/category/demo/"
-    /></url>
-  <url>
-    <loc>https://example.com/ru/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/post/getting-started/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/post/getting-started/"
+      href="https://artyombabenko.github.io/ru/post/my-last-week1/"
     /></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -244,6 +194,46 @@
       href=""
     /></url>
   <url>
+    <loc>https://artyombabenko.github.io/ru/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://artyombabenko.github.io/tag/academic/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://artyombabenko.github.io/ru/tag/academic/"
+    /></url>
+  <url>
+    <loc>https://artyombabenko.github.io/ru/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://artyombabenko.github.io/categories/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://artyombabenko.github.io/ru/categories/"
+    /></url>
+  <url>
+    <loc>https://artyombabenko.github.io/ru/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://artyombabenko.github.io/category/demo/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://artyombabenko.github.io/ru/category/demo/"
+    /></url>
+  <url>
+    <loc>https://artyombabenko.github.io/ru/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://artyombabenko.github.io/post/getting-started/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://artyombabenko.github.io/ru/post/getting-started/"
+    /></url>
+  <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -254,74 +244,84 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/ru/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/%E5%BC%80%E6%BA%90/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/%E5%BC%80%E6%BA%90/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/ru/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/%E6%95%99%E7%A8%8B/"
+      href="https://artyombabenko.github.io/tag/%E5%BC%80%E6%BA%90/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/%E6%95%99%E7%A8%8B/"
+      href="https://artyombabenko.github.io/ru/tag/%E5%BC%80%E6%BA%90/"
     /></url>
   <url>
-    <loc>https://example.com/ru/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href="https://artyombabenko.github.io/category/%E6%95%99%E7%A8%8B/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https://artyombabenko.github.io/ru/category/%E6%95%99%E7%A8%8B/"
     /></url>
   <url>
-    <loc>https://example.com/ru/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https://artyombabenko.github.io/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://artyombabenko.github.io/ru/slides/"
     /></url>
   <url>
-    <loc>https://example.com/ru/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https://artyombabenko.github.io/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://artyombabenko.github.io/ru/slides/example/"
     /></url>
   <url>
-    <loc>https://example.com/ru/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
+      href="https://artyombabenko.github.io/publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https://artyombabenko.github.io/ru/publication-type/1/"
     /></url>
   <url>
-    <loc>https://example.com/ru/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="https://artyombabenko.github.io/publication/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https://artyombabenko.github.io/ru/publication/example/"
+    /></url>
+  <url>
+    <loc>https://artyombabenko.github.io/ru/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://artyombabenko.github.io/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://artyombabenko.github.io/ru/publication_types/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -334,14 +334,14 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/ru/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://artyombabenko.github.io/ru/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="https://artyombabenko.github.io/publication/"
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https://artyombabenko.github.io/ru/publication/"
     /></url>
   <url>
     <loc></loc><changefreq>weekly</changefreq></url></urlset>

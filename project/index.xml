@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://artyombabenko.github.io/project/</link>
+      <atom:link href="https://artyombabenko.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://artyombabenko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://artyombabenko.github.io/project/</link>
     </image>
     
     <item>
       <title>Individual project &#34;Personal site of a researcher&#34;</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://artyombabenko.github.io/project/example/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://artyombabenko.github.io/project/example/</guid>
       <description>&lt;h1 id=&#34;in-the-subject-operating-systems-i-had-to-do-a-project---to-create-a-personal-website-the-project-consisted-of-6-stages-each-of-which-was-allocated-a-week-during-the-stages-i-had-to-write-and-create-posts-on-various-topics-add-information-about-myself-and-so-on&#34;&gt;In the subject &amp;ldquo;Operating Systems&amp;rdquo; I had to do a project - to create a personal website. The project consisted of 6 stages, each of which was allocated a week. During the stages I had to write and create posts on various topics, add information about myself, and so on.&lt;/h1&gt;
 &lt;h1 id=&#34;stages-of-the-projectcd&#34;&gt;Stages of the project:cd&lt;/h1&gt;
 &lt;h2 id=&#34;1-posting-on-github-pages-the-blanks-for-the-personal-site&#34;&gt;1) Posting on Github pages the blanks for the personal site.&lt;/h2&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://artyombabenko.github.io/post/</link>
+      <atom:link href="https://artyombabenko.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 14:35:38 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://artyombabenko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>https://artyombabenko.github.io/post/</link>
     </image>
     
     <item>
       <title>Upstart</title>
-      <link>https://example.com/post/upstart/</link>
+      <link>https://artyombabenko.github.io/post/upstart/</link>
       <pubDate>Sat, 04 Jun 2022 14:35:38 +0300</pubDate>
-      <guid>https://example.com/post/upstart/</guid>
+      <guid>https://artyombabenko.github.io/post/upstart/</guid>
       <description>&lt;h1 id=&#34;upstart-is-an-os-initialization-system-that-controls-the-launch-of-daemons-during-system-boot-their-stopping-and-their-management-while-the-system-is-running-it-is-an-event-based-replacement-for-the-init-initialization-system-in-unix-and-linux-systems-it-was-originally-developed-for-the-ubuntu-distribution-but-later-became-used-in-other-linux-distributions-such-as-fedora-later-replaced-by-systemd-as-a-replacement-for-unix-system-v-init-since-2014-upstart-has-been-in-maintenance-mode-only-with-no-new-features-being-developed-it-is-now-recognized-as-obsolete-and-a-switch-to-systemd-is-planned-for-many-distributions&#34;&gt;Upstart is an OS initialization system that controls the launch of daemons during system boot, their stopping, and their management while the system is running. It is an event-based replacement for the init initialization system in UNIX and Linux systems. It was originally developed for the Ubuntu distribution, but later became used in other Linux distributions, such as Fedora (later replaced by systemd), as a replacement for UNIX System V init. Since 2014, Upstart has been in maintenance mode only, with no new features being developed. It is now recognized as obsolete and a switch to systemd is planned for many distributions.&lt;/h1&gt;
 &lt;h1 id=&#34;upstart-is-a-hybrid-initialization-system-it-uses-both-sysv-startup-scripts-and-systemd-service-files&#34;&gt;UpStart is a hybrid initialization system, it uses both SysV startup scripts and Systemd service files.&lt;/h1&gt;
 &lt;h1 id=&#34;most-of-its-features-work-due-to-integration-with-systemd-initialization-system-recently-fewer-and-fewer-sysv-init-scripts-are-being-used-and-more-and-more-systemd-unit-files-are-being-used-sooner-or-later-systemd-will-displace-and-completely-replace-upstart-in-ubuntu&#34;&gt;Most of its features work due to integration with Systemd initialization system. Recently, fewer and fewer SysV init scripts are being used and more and more Systemd unit files are being used. Sooner or later, Systemd will displace and completely replace Upstart in Ubuntu.&lt;/h1&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Last_week5</title>
-      <link>https://example.com/post/last_week5/</link>
+      <link>https://artyombabenko.github.io/post/last_week5/</link>
       <pubDate>Sat, 04 Jun 2022 14:17:33 +0300</pubDate>
-      <guid>https://example.com/post/last_week5/</guid>
+      <guid>https://artyombabenko.github.io/post/last_week5/</guid>
       <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
 &lt;h2 id=&#34;its-been-a-tough-week-for-me-the-first-year-of-university-is-coming-to-an-end-grades-will-be-given-out-soon-i-need-to-turn-in-my-outstanding-work-i-did-the-report-the-last-lab-work-on-the-subject-as-well-as-the-last-stage-of-the-individual-project-however-i-still-managed-to-have-some-fun-as-my-friends-and-i-went-for-a-walk-in-the-park-we-rode-on-swings-ate-cotton-candy-and-rode-bicycles&#34;&gt;It&amp;rsquo;s been a tough week for me. The first year of university is coming to an end, grades will be given out soon, I need to turn in my outstanding work. I did the report, the last lab work on the subject, as well as the last stage of the individual project. However, I still managed to have some fun, as my friends and I went for a walk in the park. We rode on swings, ate cotton candy, and rode bicycles.&lt;/h2&gt;
 &lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Scientifiс programming languages</title>
-      <link>https://example.com/post/scientifi%D1%81_programming_languages/</link>
+      <link>https://artyombabenko.github.io/post/scientifi%D1%81_programming_languages/</link>
       <pubDate>Sat, 28 May 2022 08:53:25 +0300</pubDate>
-      <guid>https://example.com/post/scientifi%D1%81_programming_languages/</guid>
+      <guid>https://artyombabenko.github.io/post/scientifi%D1%81_programming_languages/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;h2 id=&#34;the-progress-of-computer-technology-has-determined-the-process-of-appearance-of-new-various-sign-systems-for-recording-algorithms---programming-languages-the-meaning-of-the-emergence-of-such-a-language---equipped-with-a-set-of-computational-formulas-of-additional-information-turns-this-set-into-an-algorithm-programming-language---a-formal-sign-system-designed-to-record-computer-programs-a-programming-language-defines-a-set-of-lexical-syntactic-and-semantic-rules-that-define-the-appearance-of-the-program-and-the-actions-that-the-executor-computer-will-perform-under-its-control&#34;&gt;The progress of computer technology has determined the process of appearance of new various sign systems for recording algorithms - programming languages. The meaning of the emergence of such a language - equipped with a set of computational formulas of additional information, turns this set into an algorithm. Programming language - a formal sign system designed to record computer programs. A programming language defines a set of lexical, syntactic and semantic rules that define the appearance of the program and the actions that the executor (computer) will perform under its control.&lt;/h2&gt;
 &lt;h2 id=&#34;since-the-creation-of-the-first-programmable-machines-mankind-has-come-up-with-more-than-eight-and-a-half-thousand-programming-languages-every-year-their-number-is-replenished-with-new-ones-some-languages-are-only-used-by-a-small-number-of-their-own-developers-others-are-known-to-millions-of-people-professional-programmers-sometimes-use-more-than-a-dozen-different-programming-languages-in-their-work&#34;&gt;Since the creation of the first programmable machines mankind has come up with more than eight and a half thousand programming languages. Every year their number is replenished with new ones. Some languages are only used by a small number of their own developers, others are known to millions of people. Professional programmers sometimes use more than a dozen different programming languages in their work.&lt;/h2&gt;
@@ -92,9 +92,9 @@
     
     <item>
       <title>My last week</title>
-      <link>https://example.com/post/mylastweek4/</link>
+      <link>https://artyombabenko.github.io/post/mylastweek4/</link>
       <pubDate>Sat, 28 May 2022 08:52:25 +0300</pubDate>
-      <guid>https://example.com/post/mylastweek4/</guid>
+      <guid>https://artyombabenko.github.io/post/mylastweek4/</guid>
       <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
 &lt;h2 id=&#34;this-week-was-not-as-busy-as-the-previous-ones-this-week-we-had-the-last-physical-education-and-english-classes-i-have-done-a-lot-of-laboratory-work-shot-a-lot-of-video-reports-ive-watched-a-lot-of-videos-on-youtube-thats-how-my-week-went&#34;&gt;This week was not as busy as the previous ones. This week we had the last physical education and English classes. I have done a lot of laboratory work, shot a lot of video reports. I&amp;rsquo;ve watched a lot of videos on youtube. That&amp;rsquo;s how my week went.&lt;/h2&gt;
 &lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
@@ -104,9 +104,9 @@
     
     <item>
       <title>Creating presentations</title>
-      <link>https://example.com/post/creating_presentations/</link>
+      <link>https://artyombabenko.github.io/post/creating_presentations/</link>
       <pubDate>Sat, 21 May 2022 07:26:55 +0300</pubDate>
-      <guid>https://example.com/post/creating_presentations/</guid>
+      <guid>https://artyombabenko.github.io/post/creating_presentations/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;h2 id=&#34;all-of-us-have-at-least-once-got-to-a-performance-with-an-impossibly-boring-presentation-the-slides-were-overloaded-with-information-the-speech-was-monotonous-there-was-snuffling-in-the-hall-the-content-of-such-speeches-disappears-from-memory-a-minute-after-the-start&#34;&gt;All of us have at least once got to a performance with an impossibly boring presentation. The slides were overloaded with information, the speech was monotonous, there was snuffling in the hall. The content of such speeches disappears from memory a minute after the start.&lt;/h2&gt;
 &lt;h2 id=&#34;but-not-all-presentations-are-like-that-some-do-not-get-out-of-my-head-for-weeks-and-the-words-from-them-inspire-me-to-act-a-good-presentation-is-understandable-even-to-a-child-beautifully-designed-and-combined-with-a-strong-idea-can-change-the-world&#34;&gt;But not all presentations are like that. Some do not get out of my head for weeks, and the words from them inspire me to act. A good presentation is understandable even to a child, beautifully designed, and combined with a strong idea can change the world.&lt;/h2&gt;
@@ -130,9 +130,9 @@
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek3/</link>
+      <link>https://artyombabenko.github.io/post/lastweek3/</link>
       <pubDate>Sat, 21 May 2022 07:13:08 +0300</pubDate>
-      <guid>https://example.com/post/lastweek3/</guid>
+      <guid>https://artyombabenko.github.io/post/lastweek3/</guid>
       <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
 &lt;h2 id=&#34;this-week-turned-out-to-be-diverse-i-did-a-lot-of-things-for-my-studies-but-i-also-did-not-forget-about-recreation-and-entertainment-my-friend-had-a-birthday-and-we-went-on-a-horror-quest-we-got-unforgettable-emotions-then-we-ate-pizza-and-walked-in-gorky-park-until-nightfall&#34;&gt;This week turned out to be diverse. I did a lot of things for my studies, but I also did not forget about recreation and entertainment. My friend had a birthday and we went on a horror quest. We got unforgettable emotions. Then we ate pizza and walked in Gorky Park until nightfall.&lt;/h2&gt;
 &lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
@@ -142,9 +142,9 @@
     
     <item>
       <title>Markdown</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>https://artyombabenko.github.io/post/markdown/</link>
       <pubDate>Sat, 14 May 2022 18:55:24 +0300</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>https://artyombabenko.github.io/post/markdown/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;h2 id=&#34;markdown-is-a-text-markup-language-created-by-writer-and-blogger-john-gruber-it-is-designed-to-create-beautifully-designed-texts-in-ordinary-txt-format-files-you-dont-need-bulky-processors-like-word-or-pages-to-create-documents-with-bold-or-italics-citations-links-and-even-tables-it-is-enough-to-remember-the-simple-rules-of-markdown-and-you-can-write-even-in-a-notebook-although-specialized-markdown-editors-are-of-course-much-more-convenient&#34;&gt;Markdown is a text markup language created by writer and blogger John Gruber. It is designed to create beautifully designed texts in ordinary TXT format files. You don&amp;rsquo;t need bulky processors like Word or Pages to create documents with bold or italics, citations, links, and even tables. It is enough to remember the simple rules of Markdown, and you can write even in a &amp;ldquo;Notebook&amp;rdquo;. Although specialized Markdown editors are, of course, much more convenient.&lt;/h2&gt;
 &lt;h1 id=&#34;where-can-i-use-markdown&#34;&gt;Where can I use Markdown&lt;/h1&gt;
@@ -167,9 +167,9 @@
     
     <item>
       <title>My last week</title>
-      <link>https://example.com/post/last_week2/</link>
+      <link>https://artyombabenko.github.io/post/last_week2/</link>
       <pubDate>Sat, 14 May 2022 18:53:47 +0300</pubDate>
-      <guid>https://example.com/post/last_week2/</guid>
+      <guid>https://artyombabenko.github.io/post/last_week2/</guid>
       <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
 &lt;h2 id=&#34;this-week-i-did-all-the-things-i-planned-to-do-i-did-all-the-lab-work-solved-the-tests-did-my-homework-in-english-in-addition-i-did-not-forget-about-the-rest-my-friends-and-i-went-to-the-trampoline-park&#34;&gt;This week I did all the things I planned to do. I did all the lab work, solved the tests, did my homework in English. In addition, I did not forget about the rest. My friends and I went to the trampoline park.&lt;/h2&gt;
 &lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
@@ -179,9 +179,9 @@
     
     <item>
       <title>Continuous Integration and Continuous Deployment</title>
-      <link>https://example.com/post/tema2/</link>
+      <link>https://artyombabenko.github.io/post/tema2/</link>
       <pubDate>Sat, 07 May 2022 07:29:17 +0300</pubDate>
-      <guid>https://example.com/post/tema2/</guid>
+      <guid>https://artyombabenko.github.io/post/tema2/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;h2 id=&#34;the-speed-and-quality-of-product-assembly-are-the-main-competitive-advantages-in-software-development-therefore-a-new-concept-of-cicd--continuous-integration-and-continuous-delivery--continuous-integration-and-continuous-delivery---began-to-replace-archaic-programming-models-such-as-imperative-structural-or-modular-it-helps-to-minimize-errors-increase-the-pace-of-assembly-and-the-quality-of-the-product-being-developed&#34;&gt;The speed and quality of product assembly are the main competitive advantages in software development. Therefore, a new concept of CI/CD — Continuous integration and Continuous delivery – continuous integration and continuous delivery - began to replace archaic programming models, such as imperative, structural or modular. It helps to minimize errors, increase the pace of assembly and the quality of the product being developed.&lt;/h2&gt;
 &lt;h1 id=&#34;what-is-cicd&#34;&gt;What is CI/CD&lt;/h1&gt;
@@ -217,9 +217,9 @@
     
     <item>
       <title>My last week</title>
-      <link>https://example.com/post/my-last-week1/</link>
+      <link>https://artyombabenko.github.io/post/my-last-week1/</link>
       <pubDate>Sat, 07 May 2022 06:36:37 +0300</pubDate>
-      <guid>https://example.com/post/my-last-week1/</guid>
+      <guid>https://artyombabenko.github.io/post/my-last-week1/</guid>
       <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
 &lt;h2 id=&#34;for-this-week-i-made-almost-all-things-which-i-planned-i-have-done-all-the-laboratory-work-in-several-subjects-went-to-the-amusement-park-with-my-friends-read-a-new-detective-book-and-watched-an-interesting-film-called-bird-box-of-all-the-planned-things-i-could-not-only-study-english&#34;&gt;For this week i made almost all things which I planned. I have done all the laboratory work in several subjects, went to the amusement park with my friends, read a new detective book and watched an interesting film called &amp;ldquo;Bird box&amp;rdquo;. Of all the planned things, I could not only study English.&lt;/h2&gt;
 &lt;h1 id=&#34;result-of-the-week&#34;&gt;Result of the week&lt;/h1&gt;
@@ -229,9 +229,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://artyombabenko.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://artyombabenko.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;

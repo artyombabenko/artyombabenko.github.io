@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://artyombabenko.github.io/ru/project/</link>
+      <atom:link href="https://artyombabenko.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://artyombabenko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>https://artyombabenko.github.io/ru/project/</link>
     </image>
     
     <item>
       <title>Индивидуальный проект Персональный сайт научного работника</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://artyombabenko.github.io/ru/project/example/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://artyombabenko.github.io/ru/project/example/</guid>
       <description>&lt;h1 id=&#34;по-предмету-операционные-системы-я-должен-был-выполнить-проект---создать-личный-веб-сайт-проект-состоял-из-6-этапов-на-каждый-из-которых-отводилась-неделя-на-этапах-я-должен-был-писать-и-создавать-посты-на-различные-темы-добавлять-информацию-о-себе-и-тд&#34;&gt;По предмету &amp;ldquo;Операционные системы&amp;rdquo; я должен был выполнить проект - создать личный веб-сайт. Проект состоял из 6 этапов, на каждый из которых отводилась неделя. На этапах я должен был писать и создавать посты на различные темы, добавлять информацию о себе и т.д.&lt;/h1&gt;
 &lt;h1 id=&#34;этапы-проекта&#34;&gt;Этапы проекта:&lt;/h1&gt;
 &lt;h2 id=&#34;1-размещение-на-странице-github-заготовки-для-личного-сайта&#34;&gt;1) Размещение на странице Github заготовки для личного сайта.&lt;/h2&gt;
